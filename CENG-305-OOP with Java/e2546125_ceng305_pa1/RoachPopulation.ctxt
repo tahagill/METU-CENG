@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RoachPopulation
+comment0.text=\r\n\ Represents\ a\ population\ of\ roaches\ that\ can\ breed\ and\ be\ affected\ by\ insecticide\ spray.\r\n\ This\ class\ keeps\ track\ of\ the\ roach\ population\ size\ and\ provides\ methods\ for\ breeding,\r\n\ spraying\ with\ insecticide,\ and\ getting\ the\ current\ population\ size.\r\n
+comment1.params=initialPopulation
+comment1.target=RoachPopulation(int)
+comment1.text=\r\n\ Constructs\ a\ RoachPopulation\ object\ with\ the\ given\ initial\ population\ size.\r\n\r\n\ @param\ initialPopulation\ The\ initial\ population\ size\ of\ roaches.\r\n
+comment2.params=
+comment2.target=void\ breed()
+comment2.text=\r\n\ Simulates\ breeding,\ doubling\ the\ roach\ population.\r\n
+comment3.params=sprayPercentage
+comment3.target=void\ spray(double)
+comment3.text=\r\n\ Simulates\ spraying\ insecticide,\ reducing\ the\ roach\ population\ by\ a\ given\ percentage.\r\n\r\n\ @param\ sprayPercentage\ The\ percentage\ of\ the\ population\ to\ be\ reduced\ by\ insecticide\ spray.\r\n
+comment4.params=
+comment4.target=int\ getRoaches()
+comment4.text=\r\n\ Gets\ the\ current\ population\ size\ of\ roaches.\r\n\r\n\ @return\ The\ current\ population\ size\ of\ roaches.\r\n
+numComments=5

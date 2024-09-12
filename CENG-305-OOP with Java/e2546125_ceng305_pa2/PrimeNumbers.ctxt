@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PrimeNumbers
+comment0.text=\r\n\ This\ program\ prompts\ the\ user\ for\ a\ positive\ integer\ and\ displays\ prime\ numbers\ up\ to\ that\ integer.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ to\ run\ the\ program\ and\ prompt\ the\ user\ for\ input.\r\n\r\n\ @param\ args\ Command\ line\ arguments\ (unused)\r\n
+comment2.params=num
+comment2.target=boolean\ isPrime(int)
+comment2.text=\r\n\ Checks\ if\ a\ given\ number\ is\ prime.\r\n\r\n\ @param\ num\ The\ number\ to\ check\ for\ primality.\r\n\ @return\ True\ if\ the\ number\ is\ prime,\ false\ otherwise.\r\n
+numComments=3

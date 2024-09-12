@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CharacterTypeChecker
+comment0.text=\r\n\ This\ class\ checks\ if\ the\ input\ character\ is\ a\ vowel\ or\ a\ consonant.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ This\ is\ the\ main\ method\ which\ makes\ use\ of\ checkCharacter\ method.\r\n\ @param\ args\ \r\n
+comment2.params=
+comment2.target=void\ checkCharacter()
+comment2.text=\r\n\ This\ method\ checks\ if\ the\ input\ character\ is\ a\ vowel,\ consonant\ or\ invalid.\r\n
+numComments=3

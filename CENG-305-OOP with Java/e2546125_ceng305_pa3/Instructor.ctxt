@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Instructor
+comment0.text=\r\n\ This\ class\ represents\ an\ Instructor.\ It\ inherits\ attributes\ from\ the\ Person\ class.\r\n\ \r\n\ @version\ 1.0\r\n\ @see\ Person\r\n\ @see\ Course\r\n\ @see\ ArrayList\r\n\ @author\ Taha\ Ahmad\r\n
+comment1.params=nameSurname\ age
+comment1.target=Instructor(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ the\ Instructor\ class.\r\n\ \r\n\ @param\ nameSurname\ The\ instructor's\ full\ name.\r\n\ @param\ age\ The\ instructor's\ age.\r\n
+comment2.params=
+comment2.target=int\ getAge()
+comment2.text=\r\n\ Getter\ method\ for\ the\ instructor's\ age.\r\n\ \r\n\ @return\ The\ instructor's\ age.\r\n
+comment3.params=
+comment3.target=void\ getInstructors()
+comment3.text=\r\n\ Retrieves\ and\ prints\ the\ list\ of\ all\ instructors.\r\n
+comment4.params=index
+comment4.target=void\ removeInstructor(int)
+comment4.text=\r\n\ Removes\ an\ instructor\ from\ the\ list\ by\ index.\r\n\ \r\n\ @param\ index\ The\ index\ of\ the\ instructor\ to\ be\ removed.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Returns\ a\ string\ representation\ of\ the\ instructor.\r\n\ \r\n\ @return\ A\ string\ containing\ the\ instructor's\ name\ and\ age.\r\n
+numComments=6

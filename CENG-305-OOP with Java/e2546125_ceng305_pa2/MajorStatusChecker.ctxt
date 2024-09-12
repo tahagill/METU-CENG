@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MajorStatusChecker
+comment0.text=\r\n\ This\ class\ prompts\ the\ user\ for\ two\ characters\ and\ displays\ the\ major\ and\ student\ status.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ to\ prompt\ the\ user\ for\ input\ and\ display\ major\ and\ status.\r\n\r\n\ @param\ args\ Command\ line\ arguments\r\n
+numComments=2

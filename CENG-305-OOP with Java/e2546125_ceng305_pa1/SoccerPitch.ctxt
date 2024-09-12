@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SoccerPitch
+comment0.text=\r\n\ Represents\ a\ graphical\ component\ for\ painting\ a\ soccer\ pitch\ with\ left\ and\ right\ side\ elements.\r\n\ The\ pitch\ includes\ elements\ such\ as\ the\ field\ background,\ center\ circle,\ halfway\ line,\r\n\ goal\ area,\ and\ penalty\ area.\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\r\n\ Paints\ the\ soccer\ pitch\ component\ including\ both\ left\ and\ right\ side\ elements.\r\n\ \r\n\ @param\ g\ The\ Graphics\ object\ used\ for\ painting.\r\n
+numComments=2

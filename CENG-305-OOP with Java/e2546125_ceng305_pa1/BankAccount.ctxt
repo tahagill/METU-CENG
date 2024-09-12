@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment0.text=\r\n\ Represents\ a\ bank\ account\ with\ functionalities\ such\ as\ deposit,\ withdrawal,\ balance\ retrieval,\r\n\ setting\ transaction\ fee,\ and\ deducting\ monthly\ charges.\r\n
+comment1.params=initialBalance\ freeTransactions
+comment1.target=BankAccount(double,\ int)
+comment1.text=\r\n\ Constructs\ a\ BankAccount\ object\ with\ the\ given\ initial\ balance\ and\ allowed\ free\ transactions.\r\n\r\n\ @param\ initialBalance\ \ \ The\ initial\ balance\ of\ the\ bank\ account.\r\n\ @param\ freeTransactions\ The\ number\ of\ free\ transactions\ allowed\ per\ month.\r\n
+comment2.params=freeTransactions
+comment2.target=BankAccount(int)
+comment2.text=\r\n\ Constructs\ a\ BankAccount\ object\ with\ zero\ initial\ balance\ and\ allowed\ free\ transactions.\r\n\r\n\ @param\ freeTransactions\ The\ number\ of\ free\ transactions\ allowed\ per\ month.\r\n
+comment3.params=amount
+comment3.target=void\ deposit(double)
+comment3.text=\r\n\ Deposits\ the\ specified\ amount\ into\ the\ bank\ account.\r\n\r\n\ @param\ amount\ The\ amount\ to\ deposit.\r\n
+comment4.params=amount
+comment4.target=boolean\ withdraw(double)
+comment4.text=\r\n\ Withdraws\ the\ specified\ amount\ from\ the\ bank\ account\ if\ sufficient\ balance\ is\ available.\r\n\r\n\ @param\ amount\ The\ amount\ to\ withdraw.\r\n\ @return\ True\ if\ the\ withdrawal\ was\ successful,\ false\ otherwise.\r\n
+comment5.params=
+comment5.target=double\ getBalance()
+comment5.text=\r\n\ Gets\ the\ current\ balance\ of\ the\ bank\ account.\r\n\r\n\ @return\ The\ current\ balance.\r\n
+comment6.params=fee
+comment6.target=void\ setTransactionFee(double)
+comment6.text=\r\n\ Sets\ the\ transaction\ fee\ for\ exceeding\ free\ transactions.\r\n\r\n\ @param\ fee\ The\ transaction\ fee\ to\ set.\r\n
+comment7.params=
+comment7.target=void\ deductMonthlyCharge()
+comment7.text=\r\n\ Deducts\ the\ monthly\ charge\ based\ on\ exceeding\ free\ transactions\ and\ resets\ the\ transaction\ count.\r\n
+numComments=8

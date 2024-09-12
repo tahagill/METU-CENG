@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DiamondPattern
+comment0.text=\r\n\ This\ class\ prompts\ the\ user\ for\ a\ positive\ integer\ and\ displays\ a\ diamond\ pattern\ using\ asterisks.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ to\ prompt\ the\ user\ for\ input\ and\ print\ the\ diamond\ pattern.\r\n\ \r\n\ @param\ args\ Command\ line\ arguments\ (unused)\r\n
+comment2.params=scanner
+comment2.target=int\ getValidSideLength(java.util.Scanner)
+comment2.text=\r\n\ Prompts\ the\ user\ for\ a\ positive\ integer\ side\ length\ and\ validates\ the\ input.\r\n\ \r\n\ @param\ scanner\ The\ scanner\ object\ to\ read\ input\ from.\r\n\ @return\ The\ valid\ positive\ integer\ side\ length\ entered\ by\ the\ user,\ or\ -1\ if\ input\ is\ invalid.\r\n
+comment3.params=sideLength
+comment3.target=void\ printDiamond(int)
+comment3.text=\r\n\ Prints\ a\ diamond\ pattern\ using\ asterisks\ based\ on\ the\ provided\ side\ length.\r\n\ \r\n\ @param\ sideLength\ The\ side\ length\ of\ the\ diamond.\r\n
+comment4.params=numSpaces
+comment4.target=void\ printSpaces(int)
+comment4.text=\r\n\ Prints\ a\ specific\ number\ of\ spaces.\r\n\ \r\n\ @param\ numSpaces\ The\ number\ of\ spaces\ to\ print.\r\n
+comment5.params=numAsterisks
+comment5.target=void\ printAsterisks(int)
+comment5.text=\r\n\ Prints\ a\ specific\ number\ of\ asterisks.\r\n\ \r\n\ @param\ numAsterisks\ The\ number\ of\ asterisks\ to\ print.\r\n
+numComments=6
